@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/imzaidsarwar/Editor/static/css/main.feb79bf4.css",
+    "main.js": "/imzaidsarwar/Editor/static/js/main.08dc6550.js",
+    "static/js/239.3b11d42a.chunk.js": "/imzaidsarwar/Editor/static/js/239.3b11d42a.chunk.js",
+    "static/js/977.62d4f965.chunk.js": "/imzaidsarwar/Editor/static/js/977.62d4f965.chunk.js",
+    "static/js/732.ec4f303b.chunk.js": "/imzaidsarwar/Editor/static/js/732.ec4f303b.chunk.js",
+    "index.html": "/imzaidsarwar/Editor/index.html",
+    "main.feb79bf4.css.map": "/imzaidsarwar/Editor/static/css/main.feb79bf4.css.map",
+    "main.08dc6550.js.map": "/imzaidsarwar/Editor/static/js/main.08dc6550.js.map",
+    "239.3b11d42a.chunk.js.map": "/imzaidsarwar/Editor/static/js/239.3b11d42a.chunk.js.map",
+    "977.62d4f965.chunk.js.map": "/imzaidsarwar/Editor/static/js/977.62d4f965.chunk.js.map",
+    "732.ec4f303b.chunk.js.map": "/imzaidsarwar/Editor/static/js/732.ec4f303b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.feb79bf4.css",
+    "static/js/main.08dc6550.js"
+  ]
+}

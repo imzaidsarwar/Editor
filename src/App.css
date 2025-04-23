@@ -36,3 +36,72 @@
     transform: rotate(360deg);
   }
 }
+
+
+.styled-textarea {
+  width: 100%;
+  height: 400px;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  resize: none;
+  font-size: 16px;
+  line-height: 2.2em;
+
+  background-color: #C9B194;
+  background-image: 
+    linear-gradient(135deg, rgba(200, 200, 200, 0.05) 25%, transparent 25%),
+    linear-gradient(225deg, rgba(200, 200, 200, 0.05) 25%, transparent 25%),
+    linear-gradient(45deg, rgba(200, 200, 200, 0.05) 25%, transparent 25%),
+    linear-gradient(315deg, rgba(200, 200, 200, 0.05) 25%, #EBE8DB 25%);
+
+  
+}
+
+.button-group {
+  display: flex;
+  gap: 1rem;
+  margin-top: 1rem;
+  text-align: center;
+  justify-content: center;
+}
+
+.custom-button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: 500;
+  cursor: pointer;
+  color: #fff;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.custom-button.blue {
+  background-color: #3b82f6;
+}
+
+.custom-button.green {
+  background-color: #10b981;
+}
+
+.custom-button.red {
+  background-color: #ef4444;
+}
+
+.custom-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.custom-button:active {
+  transform: translateY(0);
+  box-shadow: none;
+}
+
+h2 {
+  color: #ACD3A8;
+  font-family: Consolas;
+  letter-spacing: 1px;
+  
+}
